@@ -1,6 +1,6 @@
 <?php
 
 
-echo "哈哈哈";
+echo "我是测试文件啊 test";
 
 
