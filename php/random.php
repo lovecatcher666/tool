@@ -37,4 +37,7 @@ function getRandom($num = 6,$type = 'all'){
 }
 
 
+$res = getRandom(10);
+
+echo $res;
 

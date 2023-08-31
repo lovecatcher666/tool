@@ -38,7 +38,7 @@ func getRandom(num int, t string) string {
 }
 
 func main() {
-	res := getRandom(6, "num")
+	res := getRandom(6, "str")
 
 	fmt.Println(res)
 
